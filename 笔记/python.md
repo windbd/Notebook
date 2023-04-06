@@ -41,7 +41,7 @@
 - [jupyter notebook添加、删除内核](https://blog.csdn.net/I_LOVE_MCU/article/details/108311698)
 - [jupyternotebook连接不上虚拟环境](https://blog.csdn.net/flyfish866/article/details/121221837)
 - [jupyter notebook查看内存的使用情况](https://blog.csdn.net/bonjour001/article/details/121475500)
-- [修改Jupyter Notebook默认储存路径](https://blog.csdn.net/qq_34461205/article/details/122519757)
+- [更改Jupyter Notebook的默认工作路径](https://zhuanlan.zhihu.com/p/59738776)
 - [jupyter安装插件](https://blog.csdn.net/sinat_23971513/article/details/120102672)
 - [jupyter lab 插件安装](https://blog.csdn.net/Fei20140908/article/details/119464205)
 ## Vscode
