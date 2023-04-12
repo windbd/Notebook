@@ -44,12 +44,14 @@
 - [更改Jupyter Notebook的默认工作路径](https://zhuanlan.zhihu.com/p/59738776)
 - [jupyter安装插件](https://blog.csdn.net/sinat_23971513/article/details/120102672)
 - [jupyter lab 插件安装](https://blog.csdn.net/Fei20140908/article/details/119464205)
+
 ## Vscode
 > python代码调用文件时是以终端中的打开的文件夹为根路径
 > 在vscode中根路径是资源管理器中打开的最顶层的文件夹
 > 
 - [Vscode的相对路径读取问题及处理](https://blog.csdn.net/sumaliqinghua/article/details/90404173)
 - [VSCODE 设置不可见文件的隐藏，特定文件不显示在文件列表中](https://blog.csdn.net/qq_41554005/article/details/117926256)
+- [VSCode 连接远程服务器上的 Jupyter 环境](https://zhuanlan.zhihu.com/p/508764623)
 # 二、库包
 ## pytorch
 - [为什么电脑装了pytorch没有安装cuda，还是能够使用gpu？](https://www.zhihu.com/question/378419173)
@@ -84,9 +86,15 @@ model=torch.load(mymodel.pth)
 ## CV相关库
 - [Pytorch视觉模型库--timm](https://blog.csdn.net/qq_42003943/article/details/118382823)
 
+
+# 三、基础应用
+
+## 基础知识
+- [python字符串前加r、f、u、l](https://blog.csdn.net/sinat_38682860/article/details/108884655)
+
+
+
 ## 应用开发
-
-
 - [python实现API的调用](https://blog.csdn.net/qq_42370313/article/details/121869032)
 - [BeautifulSoup全面总结](https://zhuanlan.zhihu.com/p/35354532)
 - [更简单高效的HTML数据提取-Xpath](https://www.cnblogs.com/pywjh/p/9708264.html)
