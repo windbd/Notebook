@@ -44,7 +44,7 @@
 - [更改Jupyter Notebook的默认工作路径](https://zhuanlan.zhihu.com/p/59738776)
 - [jupyter安装插件](https://blog.csdn.net/sinat_23971513/article/details/120102672)
 - [jupyter lab 插件安装](https://blog.csdn.net/Fei20140908/article/details/119464205)
-
+- [argparse模块如何在jupyter notebook中用于传参](https://zhuanlan.zhihu.com/p/145720581)
 ## Vscode
 > python代码调用文件时是以终端中的打开的文件夹为根路径
 > 在vscode中根路径是资源管理器中打开的最顶层的文件夹
