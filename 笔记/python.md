@@ -77,25 +77,20 @@ model.load_state_dict(torch.load(mymodel.pth)) #调用模型参数
 torch.save(model,mymodel.pth)
 model=torch.load(mymodel.pth)
 ```
-## NLP相关库
+## NLP库
 - [NLTK下载错误的终极解决办法](https://blog.csdn.net/u010099177/article/details/102900515)
-
-
+- [Tokenizer快速使用](https://zhuanlan.zhihu.com/p/548347360)
 > **torchtext的安装：**
 > pytroch的的版本为1.a.b，则torchtext的版本为0.(a+1).b
 > 若pytorch == 1.13.1，则`pip install torchtext == 0.14.1`
 
-
-## CV相关库
+## CV库
 - [Pytorch视觉模型库--timm](https://blog.csdn.net/qq_42003943/article/details/118382823)
-
 
 # 三、基础应用
 
 ## 基础知识
 - [python字符串前加r、f、u、l](https://blog.csdn.net/sinat_38682860/article/details/108884655)
-
-
 
 ## 应用开发
 - [python实现API的调用](https://blog.csdn.net/qq_42370313/article/details/121869032)
