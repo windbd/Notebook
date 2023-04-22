@@ -56,6 +56,9 @@
 - [VSCODE 设置不可见文件的隐藏，特定文件不显示在文件列表中](https://blog.csdn.net/qq_41554005/article/details/117926256)
 - [VSCode 连接远程服务器上的 Jupyter 环境](https://zhuanlan.zhihu.com/p/508764623)
 # 二、库包
+## pandas
+- [pandas 数据的合并与拼接](https://blog.csdn.net/sc179/article/details/108169436)
+## numpy
 ## pytorch
 - [为什么电脑装了pytorch没有安装cuda，还是能够使用gpu？](https://www.zhihu.com/question/378419173)
 
