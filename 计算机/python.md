@@ -48,13 +48,9 @@
 - [jupyter安装插件](https://blog.csdn.net/sinat_23971513/article/details/120102672)
 - [jupyter lab 插件安装](https://blog.csdn.net/Fei20140908/article/details/119464205)
 - [argparse模块如何在jupyter notebook中用于传参](https://zhuanlan.zhihu.com/p/145720581)
-## Vscode
-> python代码调用文件时是以终端中的打开的文件夹为根路径
-> 在vscode中根路径是资源管理器中打开的最顶层的文件夹
-> 
-- [Vscode的相对路径读取问题及处理](https://blog.csdn.net/sumaliqinghua/article/details/90404173)
-- [VSCODE 设置不可见文件的隐藏，特定文件不显示在文件列表中](https://blog.csdn.net/qq_41554005/article/details/117926256)
-- [VSCode 连接远程服务器上的 Jupyter 环境](https://zhuanlan.zhihu.com/p/508764623)
+
+## pycharm
+> 文件误操作通过右键的"本地历史记录"恢复
 # 二、库包
 ## pandas
 - [pandas 数据的合并与拼接](https://blog.csdn.net/sc179/article/details/108169436)
