@@ -1,6 +1,6 @@
 # 一、环境
 ## Anaconda
-- [怎么安装Anaconda3](https://zhuanlan.zhihu.com/p/75717350)
+- [安装Anaconda3](https://zhuanlan.zhihu.com/p/75717350)
   
 > 删除.condrac文件可以重置源环境路径
 > 换源工具pqi可以把PyPi源迅速切换化为国内源
@@ -31,8 +31,8 @@
 >>pip install [packge]=x.x.x
 >>conda install -c [packge]=x.x.x
 >>pip uninstall [packge]
->>pip install --upgrade [packge]=x.x.x
 >>conda uninstall [packge]
+>>pip install --upgrade [packge]=x.x.x
 >>conda update [packge]=x.x.x
 
 >>conda clean -p      //删除没有用的包(segment fault)
@@ -42,7 +42,6 @@
 
 ## jupyter
 - [jupyter notebook添加、删除内核](https://blog.csdn.net/I_LOVE_MCU/article/details/108311698)
-- [jupyternotebook连接不上虚拟环境](https://blog.csdn.net/flyfish866/article/details/121221837)
 - [jupyter notebook查看内存的使用情况](https://blog.csdn.net/bonjour001/article/details/121475500)
 - [更改Jupyter Notebook的默认工作路径](https://zhuanlan.zhihu.com/p/59738776)
 - [jupyter安装插件](https://blog.csdn.net/sinat_23971513/article/details/120102672)
@@ -95,5 +94,4 @@ model=torch.load(mymodel.pth)
 - [python实现API的调用](https://blog.csdn.net/qq_42370313/article/details/121869032)
 - [BeautifulSoup全面总结](https://zhuanlan.zhihu.com/p/35354532)
 - [更简单高效的HTML数据提取-Xpath](https://www.cnblogs.com/pywjh/p/9708264.html)
-- [基于Python获取亚马逊的评论](https://blog.csdn.net/CorGi_8456/article/details/122579206)
 - [pytorch GPU分布式训练 单机单卡、单机多卡](https://blog.csdn.net/hihui1231/article/details/127605644)
