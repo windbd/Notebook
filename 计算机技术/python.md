@@ -2,12 +2,12 @@
 ## Anaconda
 - [安装Anaconda3](https://zhuanlan.zhihu.com/p/75717350)
   
-> 删除.condrac文件可以重置源环境路径
-> 换源工具pqi可以把PyPi源迅速切换化为国内源
+> 删除`.condrac`文件可以重置源环境路径
+> 换源工具`pqi`可以把PyPi源迅速切换化为国内源
 > 发现错误的包在文件夹中直接删除
 > 根据包列表的后缀确定包安装的方式
 > pip与conda在安装更新和卸载包时要对应
-> dist-info文件夹是依赖库信息
+> `dist-info`文件夹是依赖库信息
 
 ```powershell
 ### 环境管理
@@ -50,6 +50,9 @@
 
 ## pycharm
 > 文件误操作通过右键的"本地历史记录"恢复
+
+## VScode
+- [VScode 解决 debug出现 No such file](https://blog.csdn.net/holyball/article/details/121738442)
 # 二、库包
 ## pandas
 - [pandas 数据的合并与拼接](https://blog.csdn.net/sc179/article/details/108169436)
