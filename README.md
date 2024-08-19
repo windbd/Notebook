@@ -1,11 +1,11 @@
 # 开源github
 
-[https://windbd.github.io/](https://windbd.github.io/)
-[https://pianfan.github.io/](https://pianfan.github.io/)  (buliding blog reference)
-[https://aosen.github.io/](https://aosen.github.io/)   (foreign sites collection)
-[https://yya518.github.io/](https://yya518.github.io/)    (Professor Yi Yang)
-[https://econdl.github.io/](https://econdl.github.io/)    (deep learning for economists)
-[https://liuhuanyong.github.io/](https://liuhuanyong.github.io/)  (老刘说NLP)
+- [https://windbd.github.io/](https://windbd.github.io/)
+- [https://pianfan.github.io/](https://pianfan.github.io/)  (buliding blog reference)
+- [https://aosen.github.io/](https://aosen.github.io/)   (foreign sites collection)
+- [https://yya518.github.io/](https://yya518.github.io/)    (Professor Yi Yang)
+- [https://econdl.github.io/](https://econdl.github.io/)    (deep learning for economists)
+- [https://liuhuanyong.github.io/](https://liuhuanyong.github.io/)  (老刘说NLP)
   
 # 开源教程
 - [保姆级教程：从零构建GitHub Pages静态网站](https://blog.csdn.net/qq_20042935/article/details/133920722)
