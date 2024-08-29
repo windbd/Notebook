@@ -1,6 +1,7 @@
 # 开源github
 
 - [https://windbd.github.io/](https://windbd.github.io/) (my github page)
+- [https://wqw547243068.github.io/](https://wqw547243068.github.io/)  (科研博士分享)
 - [https://pianfan.github.io/](https://pianfan.github.io/)  (buliding blog reference)
 - [https://aosen.github.io/](https://aosen.github.io/)   (foreign sites collection)
 - [https://yya518.github.io/](https://yya518.github.io/)    (Professor Yi Yang)
