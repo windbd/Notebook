@@ -5,6 +5,7 @@
 - [https://pianfan.github.io/](https://pianfan.github.io/)  (buliding blog reference)
 - [https://aosen.github.io/](https://aosen.github.io/)   (foreign sites collection)
 - [https://yya518.github.io/](https://yya518.github.io/)    (Professor Yi Yang)
+- [https://liqiangnie.github.io/](https://liqiangnie.github.io/)  (teacher Liqiang Nie)
 - [https://econdl.github.io/](https://econdl.github.io/)    (deep learning for economists)
 - [https://liuhuanyong.github.io/](https://liuhuanyong.github.io/)  (老刘说NLP)
 - [https://bowenyinis.github.io/](https://bowenyinis.github.io/)  (paper reading of management)
