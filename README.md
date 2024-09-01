@@ -1,13 +1,17 @@
 # 开源github
 
-- [https://windbd.github.io/](https://windbd.github.io/) (my github page)
-- [https://wqw547243068.github.io/](https://wqw547243068.github.io/)  (科研博士分享)
-- [https://pianfan.github.io/](https://pianfan.github.io/)  (buliding blog reference)
-- [https://aosen.github.io/](https://aosen.github.io/)   (foreign sites collection)
+- [https://windbd.github.io/](https://windbd.github.io/) (我的主页)
+
 - [https://yya518.github.io/](https://yya518.github.io/)    (Professor Yi Yang)
+- [https://tafseer-nayeem.github.io/](https://tafseer-nayeem.github.io/)  (Professor Tafseer Nayeem)
+- [https://liqiangnie.github.io/](https://liqiangnie.github.io/)  (Professor Liqiang Nie)
+- [https://bowenyinis.github.io/](https://bowenyinis.github.io/)  (Ph.D. Bowen Yin)
+- [https://amourwaltz.github.io/](https://amourwaltz.github.io/)  (Ph.D. Beyond Hsueh)
+  
+- [https://wqw547243068.github.io/](https://wqw547243068.github.io/)  (expert 鹤啸九天)
+- [https://liuhuanyong.github.io/](https://liuhuanyong.github.io/)  (expert 老刘说NLP)
 - [https://econdl.github.io/](https://econdl.github.io/)    (deep learning for economists)
-- [https://liuhuanyong.github.io/](https://liuhuanyong.github.io/)  (老刘说NLP)
-- [https://bowenyinis.github.io/](https://bowenyinis.github.io/)  (paper reading of management)
+
   
 # 开源教程
 - [保姆级教程：从零构建GitHub Pages静态网站](https://blog.csdn.net/qq_20042935/article/details/133920722)
