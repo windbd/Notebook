@@ -1,32 +1,27 @@
 # 开源github
 
-- [https://windbd.github.io/](https://windbd.github.io/) (my github homepage)
+- [my github homepage](https://windbd.github.io/)
+- [Professor Yi Yang](https://yya518.github.io/)  
+- [Professor Tafseer Nayeem](https://tafseer-nayeem.github.io/)
+- [Professor Liqiang Nie](https://liqiangnie.github.io/)
+- [Professor Yang Deng](https://dengyang17.github.io/)
+- [Ph.D. Bowen Yin](https://bowenyinis.github.io/)
+- [Ph.D. Beyond Hsueh](https://amourwaltz.github.io/)
+- [Ph.D. Wenxuan Zhang](https://isakzhang.github.io/)
+- [Expert 鹤啸九天](https://wqw547243068.github.io/)  
+- [Expert 老刘说NLP](https://liuhuanyong.github.io/)  
+- [deep learning for economists](https://econdl.github.io/)
 
-- [https://yya518.github.io/](https://yya518.github.io/)    (Professor Yi Yang)
-- [https://tafseer-nayeem.github.io/](https://tafseer-nayeem.github.io/)  (Professor Tafseer Nayeem)
-- [https://liqiangnie.github.io/](https://liqiangnie.github.io/)  (Professor Liqiang Nie)
-- [https://dengyang17.github.io/](https://dengyang17.github.io/)  (Professor Yang Deng)
+# 开源Dataset
+- [国家生态数据中心资源共享服务平台](http://www.nesdc.org.cn/)
+- [Recommender Systems Datasets](https://cseweb.ucsd.edu//~jmcauley/datasets.html)
+- [Yelp Dataset](https://www.yelp.com/dataset)
+- [知识类问答数据集资源对外开放：百万级百度知道、社区问答及六大领域级小规模语料](https://mp.weixin.qq.com/s/j8-4Z2bGgvvv_WSmPcJbsw)
+- [Stack Exchange Data Explorer](https://data.stackexchange.com/)
+- [Stack Overflow数据](https://archive.org/download/stackexchange)
+- Semeval 2016 Task 3, Semeval 2017 Task 3
 
-- [https://bowenyinis.github.io/](https://bowenyinis.github.io/)  (Ph.D. Bowen Yin)
-- [https://amourwaltz.github.io/](https://amourwaltz.github.io/)  (Ph.D. Beyond Hsueh)
-- [https://isakzhang.github.io/](https://isakzhang.github.io/)  (Ph.D. Wenxuan Zhang)
-  
-- [https://wqw547243068.github.io/](https://wqw547243068.github.io/)  (expert 鹤啸九天)
-- [https://liuhuanyong.github.io/](https://liuhuanyong.github.io/)  (expert 老刘说NLP)
-- [https://econdl.github.io/](https://econdl.github.io/)    (deep learning for economists)
-
-  
-# 开源教程
-- [保姆级教程：从零构建GitHub Pages静态网站](https://blog.csdn.net/qq_20042935/article/details/133920722)
-
-# 开源社区
-- pytorch
-- openXLab
-- huggingface
-- **Alibaba**——modelscope,easyNLP,easyCV
-- **Baidu**——paddlepaddle
-
-# 开源项目
+# 开源project
 [Baichuan2基于ModelScope的推理和微调](https://pai.console.aliyun.com/#/dsw-gallery/preview/deepLearning/nlp/baichuan2_modelscope)
 - 利用ModelScope中`SWIFT`框架对`Baichuan2-7B-Chat`模型进行微调
 - 微调用的是`alpaca-en`和`alpaca-zh`数据
