@@ -1,12 +1,15 @@
 # 开源github
 
-- [https://windbd.github.io/](https://windbd.github.io/) (我的主页)
+- [https://windbd.github.io/](https://windbd.github.io/) (my github homepage)
 
 - [https://yya518.github.io/](https://yya518.github.io/)    (Professor Yi Yang)
 - [https://tafseer-nayeem.github.io/](https://tafseer-nayeem.github.io/)  (Professor Tafseer Nayeem)
 - [https://liqiangnie.github.io/](https://liqiangnie.github.io/)  (Professor Liqiang Nie)
+- [https://dengyang17.github.io/](https://dengyang17.github.io/)  (Professor Yang Deng)
+
 - [https://bowenyinis.github.io/](https://bowenyinis.github.io/)  (Ph.D. Bowen Yin)
 - [https://amourwaltz.github.io/](https://amourwaltz.github.io/)  (Ph.D. Beyond Hsueh)
+- [https://isakzhang.github.io/](https://isakzhang.github.io/)  (Ph.D. Wenxuan Zhang)
   
 - [https://wqw547243068.github.io/](https://wqw547243068.github.io/)  (expert 鹤啸九天)
 - [https://liuhuanyong.github.io/](https://liuhuanyong.github.io/)  (expert 老刘说NLP)
