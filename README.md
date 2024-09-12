@@ -13,14 +13,16 @@
 - [deep learning for economists](https://econdl.github.io/)
 
 # 开源Dataset
+## 词向量
+- [Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+- [MTEB排行](https://huggingface.co/spaces/mteb/leaderboard)
+## 数据集
 - [国家生态数据中心资源共享服务平台](http://www.nesdc.org.cn/)
 - [Recommender Systems Datasets](https://cseweb.ucsd.edu//~jmcauley/datasets.html)
 - [Yelp Dataset](https://www.yelp.com/dataset)
 - [知识类问答数据集资源对外开放：百万级百度知道、社区问答及六大领域级小规模语料](https://mp.weixin.qq.com/s/j8-4Z2bGgvvv_WSmPcJbsw)
 - [Stack Exchange Data Explorer](https://data.stackexchange.com/)
 - [Stack Overflow数据](https://archive.org/download/stackexchange)
-- Semeval 2016 Task 3, Semeval 2017 Task 3
-
 # 开源project
 [Baichuan2基于ModelScope的推理和微调](https://pai.console.aliyun.com/#/dsw-gallery/preview/deepLearning/nlp/baichuan2_modelscope)
 - 利用ModelScope中`SWIFT`框架对`Baichuan2-7B-Chat`模型进行微调
